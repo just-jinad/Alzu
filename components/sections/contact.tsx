@@ -24,7 +24,7 @@ export function ContactSection() {
             </h2>
             <p className="mb-8 text-gray-600">
               Your donation helps us provide free, life-changing education to
-              families affected by Alzheimer's disease.
+              families affected by Alzheimer&apos;s disease.
             </p>
 
             <form onSubmit={handleSubmit} className="space-y-4">

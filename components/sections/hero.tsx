@@ -75,7 +75,7 @@ export function HeroSection() {
               </div>
 
               <p className="text-lg text-gray-900" data-aos="fade-up" data-aos-delay="300">
-                Alzheimer's Universe provides free, evidence-based education to help you understand, prevent, and manage Alzheimer's disease through interactive lessons, engaging activities, and the latest research.
+                Alzheimer&apos;s Universe provides free, evidence-based education to help you understand, prevent, and manage Alzheimer&apos;s disease through interactive lessons, engaging activities, and the latest research.
               </p>
             </div>
 

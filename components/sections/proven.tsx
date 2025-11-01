@@ -30,7 +30,7 @@ export function ProvenSection() {
           {/* Right Content */}
           <div>
             <p className="mb-8 text-xl leading-relaxed text-primary">
-              More than just educational content, Alzheimer's Universe was
+              More than just educational content, Alzheimer&apos;s Universe was
               scientifically developed and validated through rigorous academic
               research and real-world testing.
             </p>

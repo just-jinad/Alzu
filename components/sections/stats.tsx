@@ -25,7 +25,7 @@ export function StatsSection() {
         </h2>
         <p className="mx-auto mb-16 max-w-2xl text-center text-gray-600">
           Our commitment to education and research has created measurable impact
-          in the fight against Alzheimer's disease.
+          in the fight against Alzheimer&apos;s disease.
         </p>
 
         <div className="grid gap-6 md:grid-cols-3">

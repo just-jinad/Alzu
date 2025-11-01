@@ -45,7 +45,7 @@ export function Navbar() {
           <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary">
             <Brain className="h-6 w-6 text-white" />
           </div>
-          <span className="text-xl font-semibold">Alzheimer's Universe</span>
+          <span className="text-xl font-semibold">Alzheimer&apos;s Universe</span>
         </Link>
 
         {/* Desktop Navigation */}

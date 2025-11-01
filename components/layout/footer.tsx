@@ -31,10 +31,10 @@ export function Footer() {
               <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-white">
                 <Brain className="h-5 w-5 text-primary" />
               </div>
-              <span className="text-lg font-bold">Alzheimer's Universe</span>
+              <span className="text-lg font-bold">Alzheimer&apos;s Universe</span>
             </div>
             <p className="text-sm text-blue-100">
-              Empowering communities with free, evidence-based Alzheimer's
+              Empowering communities with free, evidence-based Alzheimer&apos;s
               education and support.
             </p>
           </div>
@@ -87,7 +87,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <Separator className="mb-8 bg-blue-400" />
         <div className="text-center text-sm text-blue-100">
-          <p>© {currentYear} Alzheimer's Universe. All rights reserved.</p>
+          <p>© {currentYear} Alzheimer&apos;s Universe. All rights reserved.</p>
         </div>
       </div>
     </footer>

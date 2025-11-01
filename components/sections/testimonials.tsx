@@ -39,7 +39,7 @@ export function TestimonialsSection() {
           <Card className="border-primary/20 bg-blue-50">
             <CardContent className="p-12">
               <p className="mb-8 text-2xl italic leading-relaxed text-gray-800">
-                "{testimonials[currentIndex].quote}"
+                &quot;{testimonials[currentIndex].quote}&quot;
               </p>
               <div>
                 <p className="font-bold text-gray-900">
